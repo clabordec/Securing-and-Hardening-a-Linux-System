@@ -1,1 +1,1 @@
-# Securing-and-Hardening-a-Linux-System
+# Securing and Hardening a Linux System

@@ -27,7 +27,7 @@ The primary objective of this project is to effectively secure and harden Linux 
 
 ### Deliverables:
 
-0 Comprehensive documentation outlining security best practices, hardening guidelines, and configuration procedures for securing Linux systems.
+- Comprehensive documentation outlining security best practices, hardening guidelines, and configuration procedures for securing Linux systems.
 - Configured and hardened Linux systems demonstrating adherence to security standards and compliance requirements.
 - Implemented security controls, access controls, and authentication mechanisms to mitigate security risks and prevent unauthorized access.
 - Deployed network security measures and encryption techniques to protect network traffic and sensitive data.

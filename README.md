@@ -27,7 +27,7 @@ The "Securing-and-Hardening-a-Linux-System" repository aims to provide a compreh
 
 <br>
 
-### Project Goals:
+### Project Goals
 
 - Empower Linux system administrators with the knowledge and tools to proactively secure and harden Linux systems against cyber threats and attacks.
 - Provide practical guidance and resources for implementing industry-standard security controls and mitigating common security risks and vulnerabilities.

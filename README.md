@@ -32,4 +32,7 @@ The "Securing-and-Hardening-a-Linux-System" repository aims to provide a compreh
 - Empower Linux system administrators with the knowledge and tools to proactively secure and harden Linux systems against cyber threats and attacks.
 - Provide practical guidance and resources for implementing industry-standard security controls and mitigating common security risks and vulnerabilities.
 - Foster collaboration and knowledge sharing within the Linux system administration community by offering a centralized repository of resources and insights related to securing and hardening Linux systems.
-- By leveraging the resources and expertise provided in the "Securing-and-Hardening-a-Linux-System" repository, Linux system administrators can strengthen the security posture of their Linux systems, reduce the risk of security breaches and data breaches, and ensure the confidentiality, integrity, and availability of critical systems and data.
+
+<br>
+
+By leveraging the resources and expertise provided in the "Securing-and-Hardening-a-Linux-System" repository, Linux system administrators can strengthen the security posture of their Linux systems, reduce the risk of security breaches and data breaches, and ensure the confidentiality, integrity, and availability of critical systems and data.

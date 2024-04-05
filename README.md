@@ -36,3 +36,7 @@ The "Securing-and-Hardening-a-Linux-System" repository aims to provide a compreh
 <br>
 
 By leveraging the resources and expertise provided in the "Securing-and-Hardening-a-Linux-System" repository, Linux system administrators can strengthen the security posture of their Linux systems, reduce the risk of security breaches and data breaches, and ensure the confidentiality, integrity, and availability of critical systems and data.
+
+<br>
+
+Linux Distribution: Ubuntu

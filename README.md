@@ -39,4 +39,5 @@ By leveraging the resources and expertise provided in the "Securing-and-Hardenin
 
 <br>
 
-Linux Distribution: Ubuntu
+Linux Distribution: Ubuntu <br>
+Version: 22.04.4 LTS

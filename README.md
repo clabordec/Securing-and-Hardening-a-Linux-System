@@ -1,5 +1,5 @@
 ### Introduction
-The "Securing-and-Hardening-a-Linux-System" repository aims to provide a comprehensive guide and resources for Linux system administrators to enhance the security posture of their Linux systems. This project is designed to cover various aspects of system security, including configuration hardening, vulnerability mitigation, access control, monitoring, and incident response.
+The Securing and Hardening a Linux System repository aims to provide a comprehensive guide and resources for Linux system administrators to enhance the security posture of their Linux systems. This project is designed to cover various aspects of system security, including configuration hardening, vulnerability mitigation, access control, monitoring, and incident response.
 
 <br>
 

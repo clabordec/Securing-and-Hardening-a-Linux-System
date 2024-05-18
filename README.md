@@ -36,4 +36,4 @@ The Securing and Hardening a Linux System repository aims to provide a comprehen
 <br>
 
 Linux Distribution: Ubuntu <br>
-Version: 22.04.4 LTS
+Version: 22.04

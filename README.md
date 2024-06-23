@@ -35,6 +35,5 @@ The Securing and Hardening a Linux System repository aims to provide a comprehen
 
 <br>
 
-Linux Distribution: Ubuntu <br>
+Linux Distribution: RHEL 8 <br>
 Version: 22.04 <br>
-Cloud Enviornment: DigitalOcean

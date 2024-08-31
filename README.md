@@ -3,7 +3,7 @@ The Securing and Hardening a Linux System repository aims to provide a comprehen
 
 <br>
 
-### Key Features and Components
+## Key Features and Components
 
 - <b>Baseline Security Configuration</b>: Documentation outlining baseline security configurations for Linux systems, including securing user accounts, enforcing password policies, and disabling unnecessary services and protocols.
 

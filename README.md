@@ -27,7 +27,7 @@ The Securing and Hardening a Linux System repository aims to provide a comprehen
 
 <br>
 
-### Project Goals
+## Project Goals
 
 - Simplement comprehensive security measures controls.
 - Protect sensitive data.

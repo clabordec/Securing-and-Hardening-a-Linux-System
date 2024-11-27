@@ -65,6 +65,6 @@ The project leverages the following tools and techniques:
 <br>
 
 ## Contact
-Project Maintainer: Chaanyah Laborde
-Email: chaanyahlaborde@gmail.com
+Project Maintainer: Chaanyah Laborde<br>
+Email: chaanyahlaborde@gmail.com<br>
 GitHub: Cahn20

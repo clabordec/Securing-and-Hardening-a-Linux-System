@@ -3,9 +3,6 @@
 ## Table of Contents
 - About the Project
 - Features
-- Getting Started
-  - Prerequisites
-  - Installation
 - Tools and Techniques
 - Usage
 - Contributing
@@ -30,55 +27,32 @@ Securing and Hardening a Linux System is a comprehensive guide and toolkit for L
 
 <br>
 
-## Getting Started
-Follow these instructions to set up and start using the project.
-
-Prerequisites
-A Linux distribution (tested on Ubuntu, Debian, CentOS, and Red Hat)
-Basic knowledge of Linux command-line tools
-Root or sudo access
-Git installed: sudo apt-get install git or sudo yum install git
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/Securing-and-Hardening-a-Linux-System.git
-cd Securing-and-Hardening-a-Linux-System
-Install the required dependencies (if any):
-
-bash
-Copy code
-./install_dependencies.sh
-Run the hardening scripts:
-
-bash
-Copy code
-./harden_system.sh
-Tools and Techniques
+## Tools and Techniques
 The project leverages the following tools and techniques:
+- Firewalls: iptables, ufw, and firewalld
+- Access Controls: SELinux, AppArmor, and PAM (Pluggable Authentication Modules)
+- Auditing Tools:
+  - Lynis: Comprehensive security auditing tool
+  - chkrootkit and rkhunter: Rootkit detection tools
+- Encryption:
+  - OpenSSL for file and communication encryption
+  - GPG for secure file transfer
+- Monitoring and Logging:
+  - syslog, auditd, and custom logging configurations
+  - Tools like fail2ban and logwatch for intrusion detection
+- Package and Patch Management: `unattended-upgrades`, `yum-cron`, and manual patching guides
+- Secure SSH:
+  - Key-based authentication
+  - Disabling root login and enforcing strong ciphers
+- User Management:
+  - Enforcing strong passwords with pwquality
+  - Removing inactive users and unused groups
+- Web and Database Security:
+  - Best practices for Apache, NGINX, and MySQL
+  - Configurations to prevent SQL injections and XSS attacks
 
-Firewalls: iptables, ufw, and firewalld
-Access Controls: SELinux, AppArmor, and PAM (Pluggable Authentication Modules)
-Auditing Tools:
-Lynis: Comprehensive security auditing tool
-chkrootkit and rkhunter: Rootkit detection tools
-Encryption:
-OpenSSL for file and communication encryption
-GPG for secure file transfer
-Monitoring and Logging:
-syslog, auditd, and custom logging configurations
-Tools like fail2ban and logwatch for intrusion detection
-Package and Patch Management: unattended-upgrades, yum-cron, and manual patching guides
-Secure SSH:
-Key-based authentication
-Disabling root login and enforcing strong ciphers
-User Management:
-Enforcing strong passwords with pwquality
-Removing inactive users and unused groups
-Web and Database Security:
-Best practices for Apache, NGINX, and MySQL
-Configurations to prevent SQL injections and XSS attacks
+<br>
+
 Usage
 Execute scripts based on specific tasks:
 Firewall setup: ./configure_firewall.sh

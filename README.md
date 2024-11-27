@@ -53,27 +53,19 @@ The project leverages the following tools and techniques:
 
 <br>
 
-Usage
-Execute scripts based on specific tasks:
-Firewall setup: ./configure_firewall.sh
-User and group auditing: ./audit_users.sh
-Check system health and vulnerabilities:
-bash
-Copy code
+## Usage
+- Execute scripts based on specific tasks:
+  - Firewall setup: ./configure_firewall.sh
+  - User and group auditing: ./audit_users.sh
+- Check system health and vulnerabilities:
+```bash
 ./scan_vulnerabilities.sh
+```
 Customize configurations to suit your needs. The configuration files are located in the configs/ directory.
-Contributing
-Contributions are welcome! Here's how you can help:
 
-Fork the repository
-Create a feature branch: git checkout -b feature/YourFeature
-Commit your changes: git commit -m 'Add YourFeature'
-Push to the branch: git push origin feature/YourFeature
-Open a Pull Request
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+<br>
 
-Contact
-Project Maintainer: Your Name
-Email: your.email@example.com
-GitHub: yourusername
+## Contact
+Project Maintainer: Chaanyah Laborde
+Email: chaanyahlaborde@gmail.com
+GitHub: Cahn20

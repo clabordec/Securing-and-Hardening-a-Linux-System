@@ -61,7 +61,6 @@ The project leverages the following tools and techniques:
 ```bash
 ./scan_vulnerabilities.sh
 ```
-Customize configurations to suit your needs. The configuration files are located in the configs/ directory.
 
 <br>
 

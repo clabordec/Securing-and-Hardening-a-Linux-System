@@ -67,4 +67,4 @@ The project leverages the following tools and techniques:
 ## Contact
 <b>Project Maintainer</b>: Chaanyah Laborde<br>
 <b>Email</b>: chaanyahlaborde@gmail.com<br>
-<b>LinkedIn</b>: clabordec
+<b>LinkedIn</b>: [claborde](https://www.linkedin.com/in/claborde/)
